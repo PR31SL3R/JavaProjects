@@ -17,7 +17,7 @@ public class LinkedListMain {
         ActualLinkedList list = new ActualLinkedList();
         //System.out.println(list.first);
 
-
+        //test
         list.add(test);
         list.add(test1);
         list.add(test2);
